@@ -10,8 +10,20 @@ var blockList = [
 		class: 'ads_ads_news_wrap'
 	}, 
 	{
-		page: 'vk\\.com\\/feed\\?section=recommended',
+		page: 'vk\\.com\\/feed',
 		id  : 'feed_recommends'
+	},
+	{
+		page: 'vk\\.com\\/feed',
+		attr: 'data-ad-view'
+	},
+	{
+		page : 'youtube.com\\/watch\\?v=',
+		class: 'video-ads'
+	},
+	{
+		page : 'livejournal\\.com',
+		id   : 'ljlive'
 	}
 ];
 
