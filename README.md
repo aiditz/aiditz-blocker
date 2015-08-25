@@ -9,4 +9,6 @@
 * Нажмите Load unpacked extension
 * Выберите папку с исходным кодом (`.../src/`)
 
+Или через магазин https://chrome.google.com/webstore/detail/aiditz-blocker/mjomkfifbfmhhfhnmfjdkhbkmlbfdhie
+
 Связь с автором: <divineone@yandex.ru>
